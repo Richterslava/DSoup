@@ -2,3 +2,6 @@ DSoup
 =====
 
 Hopefully a functioning HTML scraper one day
+
+BUT I REALIZE I'M AN IDIOT, SO THIS IS GONNA BE A VERY BAD SCRAPER. VERY SLOW BECAUSE I'M A MORON! 
+THANK YOU.
